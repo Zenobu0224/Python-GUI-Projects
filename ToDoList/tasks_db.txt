@@ -1,0 +1,4 @@
+Task: process weather app
+Task: learn c#
+Task: learn MySQL
+Task: continue weather app
