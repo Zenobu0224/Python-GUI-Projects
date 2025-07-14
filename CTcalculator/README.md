@@ -28,11 +28,3 @@ A fully functional and modern-looking calculator built with PYTHON and CustomTki
 - Icons/images (custom `.ico` file)
 
 ---
-
-🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Zenobu0224/CustomTkinter-calculator.git
-   cd CustomTkinter-calculator
-
